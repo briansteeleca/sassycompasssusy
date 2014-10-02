@@ -6,11 +6,11 @@ require 'breakpoint'
 
 # Set this to the root of your project when deployed:
 http_path = "/"
-css_dir = "_/css"
-sass_dir = "_/components/sass"
+css_dir = "css"
+sass_dir = "components/sass"
 images_dir = "images"
-javascripts_dir = "_/js"
-fonts_dir = "_/components/fonts"
+javascripts_dir = "js"
+fonts_dir = "components/fonts"
 relative_assets = true;
 output_style = :expanded
 
